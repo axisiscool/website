@@ -1,4 +1,3 @@
-import '@fontsource/kaisei-decol';
 import 'inter-ui/inter.css';
 import '../styles/globals.css';
 
