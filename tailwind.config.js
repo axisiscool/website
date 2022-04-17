@@ -9,8 +9,7 @@ module.exports = {
         cream: '#F2F1EF'
       },
       fontFamily: {
-        sans: ['Inter', ...defaultTheme.fontFamily.sans],
-        serif: ['"Kaisei Decol"', ...defaultTheme.fontFamily.serif]
+        sans: ['Inter', ...defaultTheme.fontFamily.sans]
       }
     }
   },
