@@ -4,12 +4,14 @@
   "author": "Jonathan (axis@axis.moe)",
   "license": "Apache-2.0",
   "scripts": {
+    "format": "prettier --write **/*.tsx",
     "dev": "next dev",
     "build": "next build",
     "export": "next build && next export",
     "start": "next start"
   },
   "dependencies": {
+    "framer-motion": "^6.3.3",
     "inter-ui": "^3.19.3",
     "next": "^12.1.6",
     "next-seo": "^5.4.0",
@@ -18,7 +20,7 @@
   },
   "devDependencies": {
     "@types/node": "^17.0.31",
-    "@types/react": "^18.0.8",
+    "@types/react": "^18.0.9",
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.13",
     "prettier": "^2.6.2",
