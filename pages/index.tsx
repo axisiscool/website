@@ -38,7 +38,7 @@ const Index: NextPage = () => (
         </Link>
         <Link href="mailto:me@jonathanzero.com">
           <button className="rounded-full bg-blue-400 p-2 px-6 text-center text-lg font-bold text-slate-800 shadow-md hover:bg-blue-500 dark:bg-blue-300 dark:shadow-lg dark:hover:bg-blue-400 md:px-8 lg:px-10">
-            Discord
+            Email
           </button>
         </Link>
       </div>
