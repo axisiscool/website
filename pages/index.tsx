@@ -26,17 +26,17 @@ const Index: NextPage = () => (
         <p className="pt-3 text-lg dark:text-white md:text-xl">A Full-Stack Developer from New York.</p>
       </motion.div>
       <div className="grid grid-cols-3 gap-2 pt-5 lg:gap-3">
-        <Link href="/projects">
+<!--         <Link href="https://github.com/axisiscool?tab=repositories">
           <button className="rounded-full bg-blue-400 p-2 px-6 text-center text-lg font-bold text-slate-800 shadow-md hover:bg-blue-500 dark:bg-blue-300 dark:shadow-lg dark:hover:bg-blue-400 md:px-8 lg:px-10">
             Projects
           </button>
-        </Link>
+        </Link> -->
         <Link href="https://github.com/axisiscool">
           <button className="rounded-full bg-blue-400 p-2 px-6 text-center text-lg font-bold text-slate-800 shadow-md hover:bg-blue-500 dark:bg-blue-300 dark:shadow-lg dark:hover:bg-blue-400 md:px-8 lg:px-10">
             Github
           </button>
         </Link>
-        <Link href="https://discord.com/users/461750180388274180">
+        <Link href="mailto:me@jonathanzero.com">
           <button className="rounded-full bg-blue-400 p-2 px-6 text-center text-lg font-bold text-slate-800 shadow-md hover:bg-blue-500 dark:bg-blue-300 dark:shadow-lg dark:hover:bg-blue-400 md:px-8 lg:px-10">
             Discord
           </button>
